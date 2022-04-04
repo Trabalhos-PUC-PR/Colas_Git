@@ -1,6 +1,4 @@
-# Colas_Git
-
-#ORGANIZO ISSO AMANHÃ!
+# ORGANIZO ISSO AMANHÃ!
 
 https://devconnected.com/how-to-push-git-branch-to-remote/
 https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
