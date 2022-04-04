@@ -1,10 +1,21 @@
-# ORGANIZO ISSO AMANHÃ!
+# Cola de uso geral do git
 
-https://devconnected.com/how-to-push-git-branch-to-remote/
-https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
-$ git checkout <branch> pra mudar a branch padrão
+arrumo melhor depois, agora to sem tempo :/
 
-Push Branch To Remote
+Resumo comandos:
+
++--------------------------------------------  
+$ git init  
+$ git status  
+$ git add <file> (. para incluir todos os arquivos)  
+$ git commit -m <mensagem>  
+$ git pull  
+$ git push <remote> <branch>  
+$ git checkout <branch>  
+$ git remote -v  
++--------------------------------------------  
+
+Push Branch P/ repo remoto:
 
 In order to push a Git branch to remote, you need to execute the “git push” command and specify the remote as well as the branch name to be pushed.
 
@@ -159,3 +170,8 @@ $ git remote add origin https://github.com/yourusername/your-repo-name.git
 Once you have done that, Git now knows about your remote repository. You can then tell it to push (which is "upload") your committed files:
 
 $ git push -u origin main
+
+### Referências:
+[How to push git branch to remote](https://devconnected.com/how-to-push-git-branch-to-remote/)
+
+[How to upload a project to Github](https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github)
