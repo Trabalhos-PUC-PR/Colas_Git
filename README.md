@@ -2,6 +2,7 @@
 
 Resumo comandos:  
 +--------------------------------------------  
+```
 $ git init  
 $ git status  
 $ git add <file> (. para incluir todos os arquivos)  
@@ -12,6 +13,10 @@ $ git checkout <branch>
 $ git remote -v  
 $ git config <--global> user.name  
 $ git config <--global> user.email  
+$ git reser HEAD~  
+$ git fetch  
+$ git reset --hard origin/main  
+```
 +--------------------------------------------  
 
 #### Como eu geralmente faço:  
@@ -27,3 +32,5 @@ $ git config <--global> user.email
 ### Referências:  
 [How to push git branch to remote](https://devconnected.com/how-to-push-git-branch-to-remote/)  
 [How to upload a project to Github](https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github)  
+[How do I undo the most recent local commits in Git?](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+[Force overwrite of local file with what's in origin repo?](https://stackoverflow.com/questions/3949804/force-overwrite-of-local-file-with-whats-in-origin-repo)
