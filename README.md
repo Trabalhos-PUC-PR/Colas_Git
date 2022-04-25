@@ -34,3 +34,8 @@ $ git reset --hard origin/main
 [How to upload a project to Github](https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github)  
 [How do I undo the most recent local commits in Git?](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
 [Force overwrite of local file with what's in origin repo?](https://stackoverflow.com/questions/3949804/force-overwrite-of-local-file-with-whats-in-origin-repo)
+
+<!--
+pw: PasteBinColasGit
+https://pastebin.com/cq5hS57i
+-->
