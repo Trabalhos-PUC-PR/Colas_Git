@@ -13,6 +13,7 @@ $ git checkout <branch>
 $ git remote -v  
 $ git config <--global> user.name  
 $ git config <--global> user.email  
+$ git config --global init.defaultBranch <name>
 $ git reset HEAD~  
 $ git fetch  
 $ git reset --hard origin/main  
